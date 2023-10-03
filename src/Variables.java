@@ -1,5 +1,5 @@
 public class Variables {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         byte myByte = 12;
         int myInt = 10;
         short myShort = 1235;
