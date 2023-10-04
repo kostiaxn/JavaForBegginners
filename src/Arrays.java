@@ -1,3 +1,9 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
+
+
 public class Arrays {
     public static void main(String[] args) {
         int number = 10; // примитивный тип данных

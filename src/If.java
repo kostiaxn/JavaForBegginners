@@ -1,3 +1,7 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
 public class If {
     public static void main(String[] args) {
         int myInt = 15;

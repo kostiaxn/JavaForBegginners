@@ -1,3 +1,7 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
 public class ClassesAndObjects {
     public static void main(String[] args) {
         Person person1 = new Person();

@@ -1,3 +1,7 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
 public class Multidimensional_Arrays {
     public static void main(String[] args) {
         int[][] matrice = { {1,2,3},

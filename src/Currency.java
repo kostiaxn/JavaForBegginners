@@ -1,3 +1,7 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
 import java.util.Scanner;
 
 public class Currency {

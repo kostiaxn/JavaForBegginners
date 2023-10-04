@@ -1,3 +1,8 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
+
 public class Break_Continue {
     public static void main(String[] args) {
         int value = 0;

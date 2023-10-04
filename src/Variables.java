@@ -1,3 +1,8 @@
+/**
+ * Created by Vesper_Mark https://www.linkedin.com/in/kostia-savchenko/
+ */
+
+
 public class Variables {
     public static void main(Strings[] args) {
         byte myByte = 12;
